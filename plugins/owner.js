@@ -56,7 +56,7 @@ if (Config.WORKTYPE == 'private') {
 
     
 
-    r_text[1] = "*╔═════😎Sophia😎═════╗*\n           \n*⚜═Sophia═⚜*\n\n*owner Hisham-Muhammed - http://Wa.me/+919400374046*\n* *\n🔰Youtube: https://youtube.com/c/ICHUTECH*            *\n*╚══════🔱🔱🔱🔱🔱═════╝*\n\n*▷Creator: Hisham-Muhammed*"
+    r_text[1] = "*╔═════😎Mia😎═════╗*\n           \n*⚜═Mia═⚜*\n\n*owner Akhil-Mavelikara - http://Wa.me/+917907189249*\n* *\n🔰Instagram:https://instagram.com/_______double____trouble__?utm_medium=copy_link *            *\n*╚══════🔱🔱🔱🔱🔱═════╝*\n\n*▷Creator: Akhil-Mavelikara*"
 
     
 
